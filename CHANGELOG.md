@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.9.0 (September 28, 2026)
+
+Download: `runling_0.9.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
+· SHA-256 `db64ff4f17a71ad0a14aec725e040e652d55d770cfe7e3ac06ad27141dec2617`
+
+Installs over 0.8.x; your runner and progress stay. **Please update:** the races changed on the
+server, so older versions show the wrong conditions.
+
+**New: weather**
+- Every race now rolls its own weather when it starts, the same for everyone in it:
+  - **Rain** (1 in 4 races): slippery and a bit unpredictable. Luck (speed bursts) and
+    Strength (grip) help.
+  - **Heat** (about 1 in 7): runners tire sooner. Stamina helps.
+  - Clear the rest of the time.
+- The ground (track, road, trail, gravel, mud) still changes once a day and is shown on the
+  Races tab. Weather comes on top, so rain on a muddy trail is the toughest race there is.
+- The race title and scenery show the weather: dark skies and rain, or a hot orange sky.
+
+**New: named Events**
+- Every day's Event has its own name, like **Harbor Lights 10K** or **Pine Ridge Marathon**,
+  and the same name never comes back for 100 days.
+- Podium medals carry the name and the date, so each one is a one-of-a-kind keepsake.
+- After registration closes, the Races tab shows tomorrow's Event.
+
 ## 0.8.1 (September 28, 2026)
 
 Download: `runling_0.8.1.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)

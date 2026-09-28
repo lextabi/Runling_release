@@ -5,13 +5,13 @@ looks like you, feed them, train them and race them against other runners.
 The more you walk in real life, the stronger your runner gets.
 
 **[Download the latest version (Google Drive)](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)**
-· Latest: **0.8.1** (September 28, 2026) · Android 8.0 or newer, 64-bit phone
+· Latest: **0.9.0** (September 28, 2026) · Android 8.0 or newer, 64-bit phone
 · [Runling on the Tabi Studio website](https://lextabi.github.io/tabistudio/runling/)
 
 <p>
   <img src="screenshots/home.png" alt="Your runner at home" width="200">
-  <img src="screenshots/races.png" alt="The Daily Event and race list" width="200">
-  <img src="screenshots/race.png" alt="A race in progress" width="200">
+  <img src="screenshots/races.png" alt="The Daily Event, weather and race list" width="200">
+  <img src="screenshots/race.png" alt="A race in the rain" width="200">
   <img src="screenshots/bibs.png" alt="Race bibs with your stats per distance" width="200">
   <img src="screenshots/shop.png" alt="Gear shop" width="200">
 </p>
@@ -27,8 +27,8 @@ The more you walk in real life, the stronger your runner gets.
 | **Real steps** | Your daily steps (from Health Connect) set your runner's Fitness, the limit for every stat, and give energy, coins and XP |
 | **Care** | Keep your runner fed and hydrated. Tap water and a plain meal are always free, and healthy meals make races faster |
 | **Training** | Raise Speed, Stamina, Strength, Luck and Charisma |
-| **Races** | From the free Community Fun Run up to the Marathon, against AI runners of your level. Road, track, trail, rain and mud each race differently |
-| **Daily Event** | Once a day, race everyone who registers (AI runners fill the empty places). Bigger prizes, gear for the podium, and gold, silver and bronze medals |
+| **Races** | From the free Community Fun Run up to the Marathon, against AI runners of your level. Each day brings a new ground (track, road, trail, gravel, mud) and every race rolls its own weather: rain favors Luck and Strength, heat favors Stamina |
+| **Daily Event** | Once a day, race everyone who registers (AI runners fill the empty places). Every day has its own name, like *Harbor Lights 10K*, and never repeats for 100 days. Bigger prizes, gear for the podium, and gold, silver and bronze medals with the Event's name and date |
 | **Medals and race bibs** | Your Event medals hang on the medal stand at home (tap it to see them all). Each distance has a race bib with your races, podiums, personal best and pace |
 | **Jobs and coins** | Part-time jobs (barista, delivery) and race prizes pay for food, gear and furniture |
 | **Gear and looks** | Shoes, tops, watches, headphones and more, with rarity glows, outfit sets and dyes. New gear goes on as soon as you buy it |
