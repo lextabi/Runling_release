@@ -6,6 +6,7 @@ The more you walk in real life, the stronger your runner gets.
 
 **[Download the latest version (Google Drive)](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)**
 · Latest: **0.8.0** (September 28, 2026) · Android 8.0 or newer, 64-bit phone
+· [Runling on the Tabi Studio website](https://lextabi.github.io/tabistudio/runling/)
 
 <p>
   <img src="screenshots/home.png" alt="Your runner at home" width="200">
