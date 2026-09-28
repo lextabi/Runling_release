@@ -5,7 +5,7 @@ looks like you, feed them, train them and race them against other runners.
 The more you walk in real life, the stronger your runner gets.
 
 **[Download the latest version (Google Drive)](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)**
-· Latest: **0.8.0** (September 28, 2026) · Android 8.0 or newer, 64-bit phone
+· Latest: **0.8.1** (September 28, 2026) · Android 8.0 or newer, 64-bit phone
 · [Runling on the Tabi Studio website](https://lextabi.github.io/tabistudio/runling/)
 
 <p>
@@ -31,7 +31,7 @@ The more you walk in real life, the stronger your runner gets.
 | **Daily Event** | Once a day, race everyone who registers (AI runners fill the empty places). Bigger prizes, gear for the podium, and gold, silver and bronze medals |
 | **Medals and race bibs** | Your Event medals hang on the medal stand at home (tap it to see them all). Each distance has a race bib with your races, podiums, personal best and pace |
 | **Jobs and coins** | Part-time jobs (barista, delivery) and race prizes pay for food, gear and furniture |
-| **Gear and looks** | Shoes, tops, watches, headphones and more, with rarity glows, outfit sets and dyes |
+| **Gear and looks** | Shoes, tops, watches, headphones and more, with rarity glows, outfit sets and dyes. New gear goes on as soon as you buy it |
 | **Home** | Your runner potters about the house on their own. Furnish your room (and a living room from level 15): every piece of furniture gives a small perk, like more max energy or extra race XP |
 | **Quests** | Daily and weekly quests, a monthly walking milestone and a 28-day login calendar that never resets |
 | **Levels and titles** | Rookie to Legend, with exclusive prestige outfits at levels 40 and 50 |

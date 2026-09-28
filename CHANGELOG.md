@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.8.1 (September 28, 2026)
+
+Download: `runling_0.8.1.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
+· SHA-256 `8e51fc6c6d241d17de07a91a0dfeed77bc9390bcf430e009335d6bee47484a10`
+
+Installs over 0.8.0; your runner and progress stay.
+
+**Fixes**
+- **Scrolling works everywhere again.** Quests, Shop, Races and the other lists now scroll
+  wherever you put your finger, so you can reach the monthly milestone, every shop item and
+  the Marathon. Swiping never presses a button or picks a shop item by accident.
+- **Noses** are easy to see now and sit in the middle of the face, below the eyes.
+- **Running looks smoother.** The legs no longer seem to jump across each other mid-stride.
+
+**Changes**
+- **Bought gear goes on straight away.** No need to open the inventory; your old item stays
+  there if you want to switch back.
+
 ## 0.8.0 (September 28, 2026)
 
 Download: `runling_0.8.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
