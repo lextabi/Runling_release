@@ -1,0 +1,3 @@
+# APKs are shared on Google Drive (see README), not committed: too big for git.
+*.apk
+*.aab
