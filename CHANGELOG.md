@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.10.1 (September 29, 2026)
+
+Download: `runling_0.10.1.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
+· SHA-256 `7955efc7eabaf5debb7b3b2aae9480334561193f1951e83301931ca64f68559e`
+
+Installs over 0.10.0; your runner and progress stay.
+
+**Fixes**
+- Tapping **Show me** on the Boss challenges card (or any new-feature card) closed the game.
+  It now takes you to the right tab.
+- After saving a new runner name, the name box now closes by itself.
+
+**Safer selling**
+- Gear your runner is wearing can't be sold anymore: take it off first (the Inventory shows
+  **Take off to sell**). The same goes for an item shown as your wardrobe look.
+- Selling now asks first, showing what you get for it and what buying it again would cost,
+  so a rare item can't be sold by accident.
+
 ## 0.10.0 (September 29, 2026)
 
 Download: `runling_0.10.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
