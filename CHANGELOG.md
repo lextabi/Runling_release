@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.11.0 (September 29, 2026)
+
+Download: `runling_0.11.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
+· SHA-256 `41537780381be6b8d0c8cfe91b65c276bf25e6f625087d6e783ccfe2580f02c3`
+
+Installs over 0.10.x; your runner and progress stay, including every look you picked.
+
+**New look: runners that look like people**
+- Every runner is redrawn: taller and more natural (about 6 heads tall), with a jaw and chin,
+  real hands, and arms and legs that bend smoothly. Female runners have their own shape.
+- Faces are redrawn too: all 8 eye styles, noses and ears, and all 17 hairstyles are refitted.
+- The arm and leg on the far side sit a little in shadow, so your runner looks more solid.
+
+**Every piece of gear redrawn**
+- Each item now has real detail and each brand its own mark.
+- New designs of their own: the Tempo Tee (raglan sleeves), Soft Tee (V-neck), Cloud Tee (clouds
+  at the hem), Elite Singlet (speed bands), Champion Singlet (laurel emblem), Trail Shorts
+  (cargo pocket) and the Phantom shoes (winged heel). The Aero Singlet is two-tone.
+- Socks now run down into the shoe. Dyes work on everything as before.
+
 ## 0.10.1 (September 29, 2026)
 
 Download: `runling_0.10.1.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)

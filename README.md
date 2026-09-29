@@ -5,7 +5,7 @@ looks like you, feed them, train them and race them against other runners.
 The more you walk in real life, the stronger your runner gets.
 
 **[Download the latest version (Google Drive)](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)**
-· Latest: **0.10.1** (September 29, 2026) · Android 8.0 or newer, 64-bit phone
+· Latest: **0.11.0** (September 29, 2026) · Android 8.0 or newer, 64-bit phone
 · [Runling on the Tabi Studio website](https://lextabi.github.io/tabistudio/runling/)
 
 <p>
