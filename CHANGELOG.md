@@ -1,5 +1,43 @@
 # Changelog
 
+## 0.10.0 (September 29, 2026)
+
+Download: `runling_0.10.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
+· SHA-256 `43e8333d0c9e76fad1eafae1b4e784baf0cd982069259f077e5ba2ff7b66bd75`
+
+Installs over 0.9.0; your runner and progress stay. **Please update:** 0.9.0 can't draw the new
+hairstyles and faces.
+
+**New: boss challenges**
+- Five boss runners wait at the bottom of the Races tab, one for each distance: Pepper
+  Quickstep (from level 3), Rio Dashwell (6), Mika Stormrun (12), Kaito Ironlung (22) and
+  Solenne Voss (32). Each races one on one, on their own home ground.
+- A try costs the race's energy. Beat a boss once for a big coin and XP reward and a
+  **Challenge medal**; after that, rematches are free (just for fun, no rewards).
+- Bosses never get stronger, you do: train, walk more to raise your Fitness, eat well and gear up.
+- Challenge medals have their own purple-and-gold look and their own tab in the medal list.
+
+**New: quest bonuses**
+- Finish **all** your daily quests for an extra +20¢ and +30 XP, and all your weekly quests for
+  +100¢ and +150 XP.
+- **Perfect Month:** claim the daily bonus on 20 days of a month (missed days are fine) for
+  200 XP and, the first time, the exclusive **Perfect Month Cap**.
+- Each daily quest now pays 25¢ (was 30¢); finishing them all pays more than before.
+
+**New: more ways to look like you**
+- Hairstyles now match the body type, with a few for both. Seven new ones: side part, mohawk,
+  slicked back and messy; pigtails, braid and long wavy. Your current hairstyle stays.
+- Four new eye styles (sparkle, almond, lashes, wink), three new noses, and new choices for
+  **eyebrows** and **mouths**.
+
+**New: unique names**
+- Every runner's name is now one of a kind. If a name is taken, the game suggests a free one.
+- If someone else had your name first, the game asks you for a new one (you can do it later
+  from **Menu → Change runner name**).
+
+**New: feature tips**
+- When a level unlocks something new, a short card explains it, with a **Show me** button.
+
 ## 0.9.0 (September 28, 2026)
 
 Download: `runling_0.9.0.apk` from the [Google Drive folder](https://drive.google.com/drive/folders/1OKRJil2Vq85TlMJgisvNVxiQkPWyds1h?usp=sharing)
